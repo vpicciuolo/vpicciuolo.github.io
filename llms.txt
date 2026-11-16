@@ -270,6 +270,14 @@ Vincenzo Picciuolo is a technology executive, founder, technology architect, inv
 * Branch: main
 * License note: Copyright OYYO and HRN Innovation Technologies Ltd. All rights reserved.
 
+## Language editions
+
+* English: https://vpicciuolo.github.io/
+* Italian: https://vpicciuolo.github.io/it/
+* Spanish: https://vpicciuolo.github.io/es/
+* French: https://vpicciuolo.github.io/fr/
+* Arabic: https://vpicciuolo.github.io/ar/
+
 ## Discovery and source guidance
 
 * XML sitemap: https://vpicciuolo.github.io/sitemap.xml
