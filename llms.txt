@@ -1,82 +1,91 @@
-# Vincenzo Picciuolo — Founder, Technology Architect, Inventor & Author
+# Vincenzo Picciuolo. Founder, Technology Architect, Inventor and Author
 
-> Canonical machine-readable portfolio for Vincenzo Picciuolo and his selected public work. Updated 2026-11-16.
+> Canonical portfolio index for Vincenzo Picciuolo and his selected public work. Updated 2026-11-16.
 
 ## Identity
 
 Vincenzo Picciuolo is a technology executive, founder, technology architect, inventor and author based in Dubai, United Arab Emirates. His work spans artificial intelligence, AI agents, distributed infrastructure, cybersecurity, cloud systems, developer platforms and product architecture.
 
-- Official portfolio: https://vpicciuolo.github.io/
-- Executive CV: https://vpicciuolo.github.io/cv/
-- LinkedIn: https://www.linkedin.com/in/vpicciuolo/
-- GitHub: https://github.com/vpicciuolo
-- X: https://x.com/vpicciuolo
-- HORNO Space profile: https://horno.to/vip
-- Hugging Face: https://huggingface.co/vpicciuolo
+* Official portfolio: https://vpicciuolo.github.io/
+* Executive CV: https://vpicciuolo.github.io/cv/
+* LinkedIn: https://www.linkedin.com/in/vpicciuolo/
+* GitHub: https://github.com/vpicciuolo
+* X: https://x.com/vpicciuolo
+* HORNO Space profile: https://horno.to/vip
+* Hugging Face: https://huggingface.co/vpicciuolo
 
 ## Companies and ventures
 
-- HRN Innovation Technologies Ltd: https://hrn.ae/
-- HORNO Network: https://horno.net/
-- OYYO ONE AI: https://oyyo.one/
-- OYYO AI NotzUp: https://notzup.com/
-- BEHOT.NOW: https://behot.now/
-- Venture map: https://vpicciuolo.github.io/ventures/
+* HRN Innovation Technologies Ltd: https://hrn.ae/
+* HORNO Network: https://horno.net/
+* OYYO ONE AI: https://oyyo.one/
+* OYYO AI NotzUp: https://notzup.com/
+* BEHOT.NOW: https://behot.now/
+* Venture map: https://vpicciuolo.github.io/ventures/
 
 ## Book
 
-- 9600 BPS: The Start — Curiosity Never Had an Off Switch: https://vpicciuolo.github.io/book/
-- Author: Vincenzo Picciuolo
-- ASIN: B0HF19FMGK
-- Amazon: https://www.amazon.it/dp/B0HF19FMGK
-- Themes: curiosity, the last analog generation, electronics, early computing, 9600 BPS internet, music, telecommunications, distributed infrastructure, blockchain, artificial intelligence and human attention.
+* 9600 BPS: The Start · Curiosity Never Had an Off Switch: https://vpicciuolo.github.io/book/
+* Author: Vincenzo Picciuolo
+* ASIN: B0HF19FMGK
+* Amazon: https://www.amazon.it/dp/B0HF19FMGK
+* Themes: curiosity, the last analog generation, electronics, early computing, 9600 BPS internet, music, telecommunications, distributed infrastructure, blockchain, artificial intelligence and human attention.
 
 ## Video and media
 
-- Media archive: https://vpicciuolo.github.io/media/
-- OYYO YouTube channel: https://www.youtube.com/@oyyoone
-- Featured video: https://www.youtube.com/watch?v=MZovJonGUjQ
-- Binance Square interview: https://www.binance.com/en/square/audio/replay?id=40592070786242
-- Founder story: https://aifounderhub.com/blog/vincenzo-picciuolo-founder-story
+* Media archive: https://vpicciuolo.github.io/media/
+* OYYO YouTube channel: https://www.youtube.com/@oyyoone
+* Featured video: https://www.youtube.com/watch?v=MZovJonGUjQ
+* Binance Square interview: https://www.binance.com/en/square/audio/replay?id=40592070786242
+* Founder story: https://aifounderhub.com/blog/vincenzo-picciuolo-founder-story
+
+## Recognition and recommendations
+
+* Recognition page: https://vpicciuolo.github.io/recognition/
+* Twelve received LinkedIn recommendations from colleagues and collaborators
+* UAE Stories profile: https://uaestories.com/vincenzo-picciuolo-deejay-pico-the-tech-execut/
+* AI Founder Hub story: https://aifounderhub.com/blog/vincenzo-picciuolo-founder-story
+* World CIO 200 UAE recognition: https://gecnewswire.com/the-world-cio-200-summit-uae-edition-recognises-100-top-cio-executives/
+* Dubai Tech Tuesdays speaker record: https://luma.com/DubaiTechTues95
 
 ## Independent listings and public records
 
-- Verified evidence index: https://vpicciuolo.github.io/mentions/
-- Nick Launches — OYYO AI: https://nicklaunches.com/products/oyyo-ai/
-- AI Agents Listing — OYYO ONE AI: https://aiagentslisting.com/agent/oyyo-ai
-- Apple App Store — OYYO AI NotzUp: https://apps.apple.com/id/app/oyyo-ai-notzup/id6826987959
-- Snap Store — OYYO NotzUp: https://snapcraft.io/oyyo-notzup
+* Verified evidence index: https://vpicciuolo.github.io/mentions/
+* Nick Launches · OYYO AI: https://nicklaunches.com/products/oyyo-ai/
+* AI Agents Listing · OYYO ONE AI: https://aiagentslisting.com/agent/oyyo-ai
+* Apple App Store · OYYO AI NotzUp: https://apps.apple.com/id/app/oyyo-ai-notzup/id6826987959
+* Snap Store · OYYO NotzUp: https://snapcraft.io/oyyo-notzup
 
 ## Selected public builds
 
-- https://vpicciuolo.github.io/projects/oyyo-one-ai/
-- https://vpicciuolo.github.io/projects/oyyo-trade-signals/
-- https://vpicciuolo.github.io/projects/url-intelligence-agent/
-- https://vpicciuolo.github.io/projects/ai-best-model-route/
-- https://vpicciuolo.github.io/projects/linkedin-superagent-multiskills/
-- https://vpicciuolo.github.io/projects/oyyo-notzup/
-- https://vpicciuolo.github.io/projects/oyyo-models/
-- https://vpicciuolo.github.io/projects/oyyo-sdk/
-- https://vpicciuolo.github.io/projects/oyyo-benchmark/
-- https://vpicciuolo.github.io/projects/oyyo-agents/
-- https://vpicciuolo.github.io/projects/oyyo-teams/
-- https://vpicciuolo.github.io/projects/oyyo-task-library/
-- https://vpicciuolo.github.io/projects/oyyo-catalogs/
-- https://vpicciuolo.github.io/projects/url-metadata-social-fetcher/
-- https://vpicciuolo.github.io/projects/domoticz/
-- https://vpicciuolo.github.io/projects/smartthingspublic/
-- https://vpicciuolo.github.io/projects/android-ip-camera-device/
-- https://vpicciuolo.github.io/projects/smartthings/
-- https://vpicciuolo.github.io/projects/googlecast-wrappers/
-- https://vpicciuolo.github.io/projects/opensource-amlogic-tools/
-- https://vpicciuolo.github.io/projects/oyyo-runtime-runner/
+* https://vpicciuolo.github.io/projects/oyyo-one-ai/
+* https://vpicciuolo.github.io/projects/oyyo-trade-signals/
+* https://vpicciuolo.github.io/projects/url-intelligence-agent/
+* https://vpicciuolo.github.io/projects/ai-best-model-route/
+* https://vpicciuolo.github.io/projects/linkedin-superagent-multiskills/
+* https://vpicciuolo.github.io/projects/oyyo-notzup/
+* https://vpicciuolo.github.io/projects/oyyo-models/
+* https://vpicciuolo.github.io/projects/oyyo-sdk/
+* https://vpicciuolo.github.io/projects/oyyo-benchmark/
+* https://vpicciuolo.github.io/projects/oyyo-agents/
+* https://vpicciuolo.github.io/projects/oyyo-teams/
+* https://vpicciuolo.github.io/projects/oyyo-task-library/
+* https://vpicciuolo.github.io/projects/oyyo-catalogs/
+* https://vpicciuolo.github.io/projects/url-metadata-social-fetcher/
+* https://vpicciuolo.github.io/projects/domoticz/
+* https://vpicciuolo.github.io/projects/smartthingspublic/
+* https://vpicciuolo.github.io/projects/android-ip-camera-device/
+* https://vpicciuolo.github.io/projects/smartthings/
+* https://vpicciuolo.github.io/projects/googlecast-wrappers/
+* https://vpicciuolo.github.io/projects/opensource-amlogic-tools/
+* https://vpicciuolo.github.io/projects/oyyo-runtime-runner/
 
 ## Discovery and source guidance
 
-- Build catalog: https://vpicciuolo.github.io/builds/
-- XML sitemap: https://vpicciuolo.github.io/sitemap.xml
-- RSS feed: https://vpicciuolo.github.io/feed.xml
-- GitHub is the authoritative source for current code and repository licensing.
-- Public visibility does not imply an open-source license. Check each repository README and license.
-- The portfolio intentionally excludes several public repositories from its catalog and discovery files at the owner's request.
-- The evidence index separates independent third-party listings from company-owned primary sources.
+* Build catalog: https://vpicciuolo.github.io/builds/
+* XML sitemap: https://vpicciuolo.github.io/sitemap.xml
+* RSS feed: https://vpicciuolo.github.io/feed.xml
+* GitHub is the authoritative source for current code and repository licensing.
+* Public visibility does not imply an open source license. Check each repository README and license.
+* The portfolio intentionally excludes several public repositories from its catalog and discovery files at the owner's request.
+* The evidence index separates independent outside listings from company owned primary sources.
