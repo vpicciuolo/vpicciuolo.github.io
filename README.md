@@ -1,14 +1,16 @@
-# Vincenzo Picciuolo — Technology, AI & Public Projects
+# Vincenzo Picciuolo — Official Portfolio
 
-Source for the public portfolio at **https://vpicciuolo.github.io/**.
+Source for **https://vpicciuolo.github.io/**.
 
-The site provides:
+The site is a complete founder portfolio covering:
 
-- a polished, responsive portfolio covering 25 public repositories;
-- dedicated, canonical project pages;
-- structured metadata and social previews;
-- a complete XML sitemap;
-- explicit crawler access in `robots.txt`;
-- a machine-readable `llms.txt` index.
+- executive CV and professional identity;
+- HRN Innovation Technologies, HORNO Network, OYYO ONE AI, NotzUp and BEHOT.NOW;
+- the book *9600 BPS: The Start*;
+- media, interviews and public writing;
+- a curated catalog of 21 selected public repositories;
+- Person, Organization, Book, ProfilePage, CollectionPage and ItemList structured data;
+- responsive navigation, accessible motion and reduced-motion support;
+- XML sitemap, robots.txt, humans.txt, llms.txt and IndexNow support.
 
-Public visibility does not imply that every repository is open source. Check each repository's README and license.
+The catalog intentionally excludes repositories the owner asked not to display. Public visibility does not imply that every repository is open source; check the applicable README and license.
