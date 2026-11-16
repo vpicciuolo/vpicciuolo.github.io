@@ -1,0 +1,18 @@
+/* TEAM */
+Founder, author and builder: Vincenzo Picciuolo
+Location: Dubai, United Arab Emirates
+Portfolio: https://vpicciuolo.github.io/
+LinkedIn: https://www.linkedin.com/in/vpicciuolo/
+GitHub: https://github.com/vpicciuolo
+
+/* VENTURES */
+HRN Innovation Technologies: https://hrn.ae/
+HORNO Network: https://horno.net/
+OYYO ONE AI: https://oyyo.one/
+NotzUp: https://notzup.com/
+BEHOT.NOW: https://behot.now/
+
+/* SITE */
+Last update: 2026-11-16
+Language: English
+Standards: HTML5, CSS, JavaScript, Schema.org, WCAG-aware motion
