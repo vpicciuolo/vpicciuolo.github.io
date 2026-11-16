@@ -1,0 +1,39 @@
+# Vincenzo Picciuolo — Open Source Projects
+
+> Canonical machine-readable index of public repositories maintained by Vincenzo Picciuolo.
+
+Canonical website: https://vpicciuolo.github.io/
+GitHub profile: https://github.com/vpicciuolo
+Sitemap: https://vpicciuolo.github.io/sitemap.xml
+
+## Public repositories
+
+- [SmartThingsPublic](https://github.com/vpicciuolo/SmartThingsPublic): Public open-source repository maintained by Vincenzo Picciuolo.
+- [android-ip-camera.device](https://github.com/vpicciuolo/android-ip-camera.device): Public open-source repository maintained by Vincenzo Picciuolo.
+- [SmartThings](https://github.com/vpicciuolo/SmartThings): Public open-source repository maintained by Vincenzo Picciuolo.
+- [domoticz](https://github.com/vpicciuolo/domoticz): Public open-source repository maintained by Vincenzo Picciuolo.
+- [googlecast-wrappers](https://github.com/vpicciuolo/googlecast-wrappers): Public open-source repository maintained by Vincenzo Picciuolo.
+- [OpenSource-AMLogic-Tools](https://github.com/vpicciuolo/OpenSource-AMLogic-Tools): Public open-source repository maintained by Vincenzo Picciuolo.
+- [GMinerRelease](https://github.com/vpicciuolo/GMinerRelease): Public open-source repository maintained by Vincenzo Picciuolo.
+- [fatturapa-php-sdk](https://github.com/vpicciuolo/fatturapa-php-sdk): Public open-source repository maintained by Vincenzo Picciuolo.
+- [api](https://github.com/vpicciuolo/api): Public open-source repository maintained by Vincenzo Picciuolo.
+- [url-metadata-social-fetcher](https://github.com/vpicciuolo/url-metadata-social-fetcher): Public open-source repository maintained by Vincenzo Picciuolo.
+- [url-intelligence-agent](https://github.com/vpicciuolo/url-intelligence-agent): Public open-source repository maintained by Vincenzo Picciuolo.
+- [vpicciuolo](https://github.com/vpicciuolo/vpicciuolo): Public open-source repository maintained by Vincenzo Picciuolo.
+- [oyyo-benchmark](https://github.com/vpicciuolo/oyyo-benchmark): Public open-source repository maintained by Vincenzo Picciuolo.
+- [oyyo-sdk](https://github.com/vpicciuolo/oyyo-sdk): Public open-source repository maintained by Vincenzo Picciuolo.
+- [oyyo-models](https://github.com/vpicciuolo/oyyo-models): Public open-source repository maintained by Vincenzo Picciuolo.
+- [Ai-Best-Model-Route](https://github.com/vpicciuolo/Ai-Best-Model-Route): Public open-source repository maintained by Vincenzo Picciuolo.
+- [Linkedin-SuperAgent-MultiSkills](https://github.com/vpicciuolo/Linkedin-SuperAgent-MultiSkills): Public open-source repository maintained by Vincenzo Picciuolo.
+- [oyyo-notzup](https://github.com/vpicciuolo/oyyo-notzup): Public open-source repository maintained by Vincenzo Picciuolo.
+- [oyyo-runtime-runner](https://github.com/vpicciuolo/oyyo-runtime-runner): Public open-source repository maintained by Vincenzo Picciuolo.
+- [oyyo-agents](https://github.com/vpicciuolo/oyyo-agents): Public open-source repository maintained by Vincenzo Picciuolo.
+- [oyyo-teams](https://github.com/vpicciuolo/oyyo-teams): Public open-source repository maintained by Vincenzo Picciuolo.
+- [oyyo-task-library](https://github.com/vpicciuolo/oyyo-task-library): Public open-source repository maintained by Vincenzo Picciuolo.
+- [oyyo-catalogs](https://github.com/vpicciuolo/oyyo-catalogs): Public open-source repository maintained by Vincenzo Picciuolo.
+- [oyyo-one-ai](https://github.com/vpicciuolo/oyyo-one-ai): Public open-source repository maintained by Vincenzo Picciuolo.
+- [oyyo-trade-signals](https://github.com/vpicciuolo/oyyo-trade-signals): Public open-source repository maintained by Vincenzo Picciuolo.
+
+## Usage
+
+Consult each repository's README and license before using its code. Repository content is authoritative over this index.
