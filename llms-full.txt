@@ -1,9 +1,9 @@
 # Vincenzo Picciuolo and the public engineering archive
 
-Canonical source: https://vpicciuolo.github.io/
+Canonical source: [https://vpicciuolo.github.io/](https://vpicciuolo.github.io/)
 Updated: 2026-11-16
-Repository knowledge base: https://vpicciuolo.github.io/repositories/
-Machine readable repository data: https://vpicciuolo.github.io/repositories.json
+Repository knowledge base: [https://vpicciuolo.github.io/repositories/](https://vpicciuolo.github.io/repositories/)
+Machine readable repository data: [https://vpicciuolo.github.io/repositories.json](https://vpicciuolo.github.io/repositories.json)
 
 ## Identity and scope
 
@@ -13,40 +13,40 @@ This document is the expanded machine readable corpus for the public portfolio. 
 
 ## Official properties
 
-* Portfolio: https://vpicciuolo.github.io/
-* CV: https://vpicciuolo.github.io/cv/
-* Ventures: https://vpicciuolo.github.io/ventures/
-* Public builds: https://vpicciuolo.github.io/builds/
-* Repository knowledge base: https://vpicciuolo.github.io/repositories/
-* Book: https://vpicciuolo.github.io/book/
-* Writing: https://vpicciuolo.github.io/writing/
-* Media: https://vpicciuolo.github.io/media/
-* Recognition: https://vpicciuolo.github.io/recognition/
-* Intellectual property: https://vpicciuolo.github.io/ip/
-* Evidence and mentions: https://vpicciuolo.github.io/mentions/
-* GitHub: https://github.com/vpicciuolo
-* LinkedIn: https://www.linkedin.com/in/vpicciuolo/
-* HORNO Space: https://horno.to/vip
-* HRN Innovation Technologies: https://hrn.ae/
-* HORNO Network: https://horno.net/
-* OYYO ONE AI: https://oyyo.one/
-* OYYO NotzUp: https://notzup.com/
+* Portfolio: [https://vpicciuolo.github.io/](https://vpicciuolo.github.io/)
+* CV: [https://vpicciuolo.github.io/cv/](https://vpicciuolo.github.io/cv/)
+* Ventures: [https://vpicciuolo.github.io/ventures/](https://vpicciuolo.github.io/ventures/)
+* Public builds: [https://vpicciuolo.github.io/builds/](https://vpicciuolo.github.io/builds/)
+* Repository knowledge base: [https://vpicciuolo.github.io/repositories/](https://vpicciuolo.github.io/repositories/)
+* Book: [https://vpicciuolo.github.io/book/](https://vpicciuolo.github.io/book/)
+* Writing: [https://vpicciuolo.github.io/writing/](https://vpicciuolo.github.io/writing/)
+* Media: [https://vpicciuolo.github.io/media/](https://vpicciuolo.github.io/media/)
+* Recognition: [https://vpicciuolo.github.io/recognition/](https://vpicciuolo.github.io/recognition/)
+* Intellectual property: [https://vpicciuolo.github.io/ip/](https://vpicciuolo.github.io/ip/)
+* Evidence and mentions: [https://vpicciuolo.github.io/mentions/](https://vpicciuolo.github.io/mentions/)
+* GitHub: [https://github.com/vpicciuolo](https://github.com/vpicciuolo)
+* LinkedIn: [https://www.linkedin.com/in/vpicciuolo/](https://www.linkedin.com/in/vpicciuolo/)
+* HORNO Space: [https://horno.to/vip](https://horno.to/vip)
+* HRN Innovation Technologies: [https://hrn.ae/](https://hrn.ae/)
+* HORNO Network: [https://horno.net/](https://horno.net/)
+* OYYO ONE AI: [https://oyyo.one/](https://oyyo.one/)
+* OYYO NotzUp: [https://notzup.com/](https://notzup.com/)
 
 ## Language editions
 
-* English: https://vpicciuolo.github.io/
-* Italian: https://vpicciuolo.github.io/it/
-* Spanish: https://vpicciuolo.github.io/es/
-* French: https://vpicciuolo.github.io/fr/
-* Arabic: https://vpicciuolo.github.io/ar/
+* English: [https://vpicciuolo.github.io/](https://vpicciuolo.github.io/)
+* Italian: [https://vpicciuolo.github.io/it/](https://vpicciuolo.github.io/it/)
+* Spanish: [https://vpicciuolo.github.io/es/](https://vpicciuolo.github.io/es/)
+* French: [https://vpicciuolo.github.io/fr/](https://vpicciuolo.github.io/fr/)
+* Arabic: [https://vpicciuolo.github.io/ar/](https://vpicciuolo.github.io/ar/)
 
 ## Repository corpus
 
 ### 1. oyyo-one-ai
 
 Category: OYYO ecosystem
-Repository: https://github.com/vpicciuolo/oyyo-one-ai
-Portfolio page: https://vpicciuolo.github.io/projects/oyyo-one-ai/
+Repository: [https://github.com/vpicciuolo/oyyo-one-ai](https://github.com/vpicciuolo/oyyo-one-ai)
+Portfolio page: [https://vpicciuolo.github.io/projects/oyyo-one-ai/](https://vpicciuolo.github.io/projects/oyyo-one-ai/)
 Default branch: main
 Repository size recorded by GitHub: 28 KB
 Summary: The main public documentation hub for OYYO ONE AI, a private AI workspace and execution platform developed in Dubai.
@@ -59,8 +59,8 @@ Licensing note: Public documentation. The private runtime and product implementa
 ### 2. oyyo-trade-signals
 
 Category: OYYO ecosystem
-Repository: https://github.com/vpicciuolo/oyyo-trade-signals
-Portfolio page: https://vpicciuolo.github.io/projects/oyyo-trade-signals/
+Repository: [https://github.com/vpicciuolo/oyyo-trade-signals](https://github.com/vpicciuolo/oyyo-trade-signals)
+Portfolio page: [https://vpicciuolo.github.io/projects/oyyo-trade-signals/](https://vpicciuolo.github.io/projects/oyyo-trade-signals/)
 Default branch: main
 Repository size recorded by GitHub: 2,600 KB
 Summary: A public customer information center for an evidence rich market intelligence and decision support workspace.
@@ -73,8 +73,8 @@ Licensing note: Public product documentation. Proprietary application source and
 ### 3. url-intelligence-agent
 
 Category: AI and intelligence
-Repository: https://github.com/vpicciuolo/url-intelligence-agent
-Portfolio page: https://vpicciuolo.github.io/projects/url-intelligence-agent/
+Repository: [https://github.com/vpicciuolo/url-intelligence-agent](https://github.com/vpicciuolo/url-intelligence-agent)
+Portfolio page: [https://vpicciuolo.github.io/projects/url-intelligence-agent/](https://vpicciuolo.github.io/projects/url-intelligence-agent/)
 Default branch: main
 Repository size recorded by GitHub: 1,056 KB
 Summary: Evidence first web intelligence that turns a public URL into structured identity, provenance and discovery data.
@@ -87,8 +87,8 @@ Licensing note: MIT
 ### 4. AI Best Model Route
 
 Category: AI and intelligence
-Repository: https://github.com/vpicciuolo/Ai-Best-Model-Route
-Portfolio page: https://vpicciuolo.github.io/projects/ai-best-model-route/
+Repository: [https://github.com/vpicciuolo/Ai-Best-Model-Route](https://github.com/vpicciuolo/Ai-Best-Model-Route)
+Portfolio page: [https://vpicciuolo.github.io/projects/ai-best-model-route/](https://vpicciuolo.github.io/projects/ai-best-model-route/)
 Default branch: main
 Repository size recorded by GitHub: 194 KB
 Summary: An open source LLM router and OpenAI compatible gateway that selects an eligible model for each request.
@@ -101,8 +101,8 @@ Licensing note: Apache 2.0
 ### 5. LinkedIn SuperAgent MultiSkills
 
 Category: AI and intelligence
-Repository: https://github.com/vpicciuolo/Linkedin-SuperAgent-MultiSkills
-Portfolio page: https://vpicciuolo.github.io/projects/linkedin-superagent-multiskills/
+Repository: [https://github.com/vpicciuolo/Linkedin-SuperAgent-MultiSkills](https://github.com/vpicciuolo/Linkedin-SuperAgent-MultiSkills)
+Portfolio page: [https://vpicciuolo.github.io/projects/linkedin-superagent-multiskills/](https://vpicciuolo.github.io/projects/linkedin-superagent-multiskills/)
 Default branch: main
 Repository size recorded by GitHub: 1,254 KB
 Summary: A portable LinkedIn AI operating system for strategy, writing, profile work, analytics, recruiting and account workflows.
@@ -115,8 +115,8 @@ Licensing note: MIT
 ### 6. OYYO NotzUp
 
 Category: OYYO ecosystem
-Repository: https://github.com/vpicciuolo/oyyo-notzup
-Portfolio page: https://vpicciuolo.github.io/projects/oyyo-notzup/
+Repository: [https://github.com/vpicciuolo/oyyo-notzup](https://github.com/vpicciuolo/oyyo-notzup)
+Portfolio page: [https://vpicciuolo.github.io/projects/oyyo-notzup/](https://vpicciuolo.github.io/projects/oyyo-notzup/)
 Default branch: main
 Repository size recorded by GitHub: 3,541 KB
 Summary: The official download, release and documentation repository for a local first capture and knowledge workspace.
@@ -129,8 +129,8 @@ Licensing note: The application is proprietary. The repository publishes downloa
 ### 7. oyyo-models
 
 Category: OYYO ecosystem
-Repository: https://github.com/vpicciuolo/oyyo-models
-Portfolio page: https://vpicciuolo.github.io/projects/oyyo-models/
+Repository: [https://github.com/vpicciuolo/oyyo-models](https://github.com/vpicciuolo/oyyo-models)
+Portfolio page: [https://vpicciuolo.github.io/projects/oyyo-models/](https://vpicciuolo.github.io/projects/oyyo-models/)
 Default branch: main
 Repository size recorded by GitHub: 87 KB
 Summary: The public catalog of OYYO model candidates, hardware guidance and capability boundaries.
@@ -143,8 +143,8 @@ Licensing note: Public catalog documentation with third party model licenses and
 ### 8. oyyo-sdk
 
 Category: OYYO ecosystem
-Repository: https://github.com/vpicciuolo/oyyo-sdk
-Portfolio page: https://vpicciuolo.github.io/projects/oyyo-sdk/
+Repository: [https://github.com/vpicciuolo/oyyo-sdk](https://github.com/vpicciuolo/oyyo-sdk)
+Portfolio page: [https://vpicciuolo.github.io/projects/oyyo-sdk/](https://vpicciuolo.github.io/projects/oyyo-sdk/)
 Default branch: main
 Repository size recorded by GitHub: 22 KB
 Summary: Python and TypeScript foundations for integrating with the proprietary OYYO orchestration runtime.
@@ -157,8 +157,8 @@ Licensing note: Public interfaces and examples. The OYYO core runtime remains pr
 ### 9. oyyo-benchmark
 
 Category: OYYO ecosystem
-Repository: https://github.com/vpicciuolo/oyyo-benchmark
-Portfolio page: https://vpicciuolo.github.io/projects/oyyo-benchmark/
+Repository: [https://github.com/vpicciuolo/oyyo-benchmark](https://github.com/vpicciuolo/oyyo-benchmark)
+Portfolio page: [https://vpicciuolo.github.io/projects/oyyo-benchmark/](https://vpicciuolo.github.io/projects/oyyo-benchmark/)
 Default branch: main
 Repository size recorded by GitHub: 102 KB
 Summary: A public evaluation framework for portable, private and business ready AI systems.
@@ -171,8 +171,8 @@ Licensing note: Public benchmark runner, schemas and methodology. Private OYYO c
 ### 10. oyyo-agents
 
 Category: OYYO ecosystem
-Repository: https://github.com/vpicciuolo/oyyo-agents
-Portfolio page: https://vpicciuolo.github.io/projects/oyyo-agents/
+Repository: [https://github.com/vpicciuolo/oyyo-agents](https://github.com/vpicciuolo/oyyo-agents)
+Portfolio page: [https://vpicciuolo.github.io/projects/oyyo-agents/](https://vpicciuolo.github.io/projects/oyyo-agents/)
 Default branch: main
 Repository size recorded by GitHub: 230 KB
 Summary: A public directory of 536 specialist role definitions across 24 departments.
@@ -185,8 +185,8 @@ Licensing note: Public role catalog documentation.
 ### 11. oyyo-teams
 
 Category: OYYO ecosystem
-Repository: https://github.com/vpicciuolo/oyyo-teams
-Portfolio page: https://vpicciuolo.github.io/projects/oyyo-teams/
+Repository: [https://github.com/vpicciuolo/oyyo-teams](https://github.com/vpicciuolo/oyyo-teams)
+Portfolio page: [https://vpicciuolo.github.io/projects/oyyo-teams/](https://vpicciuolo.github.io/projects/oyyo-teams/)
 Default branch: main
 Repository size recorded by GitHub: 21 KB
 Summary: Reusable collaboration patterns for OYYO specialist work.
@@ -199,8 +199,8 @@ Licensing note: Public team catalog documentation.
 ### 12. oyyo-task-library
 
 Category: OYYO ecosystem
-Repository: https://github.com/vpicciuolo/oyyo-task-library
-Portfolio page: https://vpicciuolo.github.io/projects/oyyo-task-library/
+Repository: [https://github.com/vpicciuolo/oyyo-task-library](https://github.com/vpicciuolo/oyyo-task-library)
+Portfolio page: [https://vpicciuolo.github.io/projects/oyyo-task-library/](https://vpicciuolo.github.io/projects/oyyo-task-library/)
 Default branch: main
 Repository size recorded by GitHub: 50 KB
 Summary: A searchable public catalog of guided tasks, specialist briefs and creative directions.
@@ -213,8 +213,8 @@ Licensing note: Public task and creative style documentation.
 ### 13. oyyo-catalogs
 
 Category: OYYO ecosystem
-Repository: https://github.com/vpicciuolo/oyyo-catalogs
-Portfolio page: https://vpicciuolo.github.io/projects/oyyo-catalogs/
+Repository: [https://github.com/vpicciuolo/oyyo-catalogs](https://github.com/vpicciuolo/oyyo-catalogs)
+Portfolio page: [https://vpicciuolo.github.io/projects/oyyo-catalogs/](https://vpicciuolo.github.io/projects/oyyo-catalogs/)
 Default branch: main
 Repository size recorded by GitHub: 122 KB
 Summary: Versioned catalog content for roles, teams, tasks and creative styles.
@@ -227,8 +227,8 @@ Licensing note: Public content snapshots. No executable plugins or private runti
 ### 14. url-metadata-social-fetcher
 
 Category: Developer tools
-Repository: https://github.com/vpicciuolo/url-metadata-social-fetcher
-Portfolio page: https://vpicciuolo.github.io/projects/url-metadata-social-fetcher/
+Repository: [https://github.com/vpicciuolo/url-metadata-social-fetcher](https://github.com/vpicciuolo/url-metadata-social-fetcher)
+Portfolio page: [https://vpicciuolo.github.io/projects/url-metadata-social-fetcher/](https://vpicciuolo.github.io/projects/url-metadata-social-fetcher/)
 Default branch: main
 Repository size recorded by GitHub: 231 KB
 Summary: Production oriented TypeScript URL enrichment for websites, profiles, products, apps and marketplaces.
@@ -241,8 +241,8 @@ Licensing note: MIT
 ### 15. domoticz
 
 Category: Smart systems
-Repository: https://github.com/vpicciuolo/domoticz
-Portfolio page: https://vpicciuolo.github.io/projects/domoticz/
+Repository: [https://github.com/vpicciuolo/domoticz](https://github.com/vpicciuolo/domoticz)
+Portfolio page: [https://vpicciuolo.github.io/projects/domoticz/](https://vpicciuolo.github.io/projects/domoticz/)
 Default branch: development
 Repository size recorded by GitHub: 346,586 KB
 Summary: A multi platform home automation system for monitoring and controlling connected devices.
@@ -255,8 +255,8 @@ Licensing note: Check the repository and upstream project for current licensing 
 ### 16. SmartThingsPublic
 
 Category: Smart systems
-Repository: https://github.com/vpicciuolo/SmartThingsPublic
-Portfolio page: https://vpicciuolo.github.io/projects/smartthingspublic/
+Repository: [https://github.com/vpicciuolo/SmartThingsPublic](https://github.com/vpicciuolo/SmartThingsPublic)
+Portfolio page: [https://vpicciuolo.github.io/projects/smartthingspublic/](https://vpicciuolo.github.io/projects/smartthingspublic/)
 Default branch: master
 Repository size recorded by GitHub: 12,531 KB
 Summary: A public archive of SmartThings SmartApps and device type handlers.
@@ -269,8 +269,8 @@ Licensing note: Check the repository history and individual files for applicable
 ### 17. android-ip-camera.device
 
 Category: Smart systems
-Repository: https://github.com/vpicciuolo/android-ip-camera.device
-Portfolio page: https://vpicciuolo.github.io/projects/android-ip-camera-device/
+Repository: [https://github.com/vpicciuolo/android-ip-camera.device](https://github.com/vpicciuolo/android-ip-camera.device)
+Portfolio page: [https://vpicciuolo.github.io/projects/android-ip-camera-device/](https://vpicciuolo.github.io/projects/android-ip-camera-device/)
 Default branch: master
 Repository size recorded by GitHub: 148 KB
 Summary: A SmartThings custom device integration for an Android IP Camera application.
@@ -283,8 +283,8 @@ Licensing note: Check the repository for current licensing and platform compatib
 ### 18. SmartThings
 
 Category: Smart systems
-Repository: https://github.com/vpicciuolo/SmartThings
-Portfolio page: https://vpicciuolo.github.io/projects/smartthings/
+Repository: [https://github.com/vpicciuolo/SmartThings](https://github.com/vpicciuolo/SmartThings)
+Portfolio page: [https://vpicciuolo.github.io/projects/smartthings/](https://vpicciuolo.github.io/projects/smartthings/)
 Default branch: master
 Repository size recorded by GitHub: 236 KB
 Summary: A compact public SmartThings automation repository retained in the connected systems archive.
@@ -297,8 +297,8 @@ Licensing note: Check individual files and repository history for applicable ter
 ### 19. googlecast-wrappers
 
 Category: Developer tools
-Repository: https://github.com/vpicciuolo/googlecast-wrappers
-Portfolio page: https://vpicciuolo.github.io/projects/googlecast-wrappers/
+Repository: [https://github.com/vpicciuolo/googlecast-wrappers](https://github.com/vpicciuolo/googlecast-wrappers)
+Portfolio page: [https://vpicciuolo.github.io/projects/googlecast-wrappers/](https://vpicciuolo.github.io/projects/googlecast-wrappers/)
 Default branch: master
 Repository size recorded by GitHub: 186 KB
 Summary: JavaScript wrappers for Google Cast sender applications and custom receiver applications.
@@ -311,8 +311,8 @@ Licensing note: Apache 2.0
 ### 20. OpenSource AMLogic Tools
 
 Category: Developer tools
-Repository: https://github.com/vpicciuolo/OpenSource-AMLogic-Tools
-Portfolio page: https://vpicciuolo.github.io/projects/opensource-amlogic-tools/
+Repository: [https://github.com/vpicciuolo/OpenSource-AMLogic-Tools](https://github.com/vpicciuolo/OpenSource-AMLogic-Tools)
+Portfolio page: [https://vpicciuolo.github.io/projects/opensource-amlogic-tools/](https://vpicciuolo.github.io/projects/opensource-amlogic-tools/)
 Default branch: master
 Repository size recorded by GitHub: 19,584 KB
 Summary: A public archive of open tooling and workflows for AMLogic based devices.
@@ -325,8 +325,8 @@ Licensing note: Check individual files and repository history for applicable ter
 ### 21. oyyo-runtime-runner
 
 Category: OYYO ecosystem
-Repository: https://github.com/vpicciuolo/oyyo-runtime-runner
-Portfolio page: https://vpicciuolo.github.io/projects/oyyo-runtime-runner/
+Repository: [https://github.com/vpicciuolo/oyyo-runtime-runner](https://github.com/vpicciuolo/oyyo-runtime-runner)
+Portfolio page: [https://vpicciuolo.github.io/projects/oyyo-runtime-runner/](https://vpicciuolo.github.io/projects/oyyo-runtime-runner/)
 Default branch: main
 Repository size recorded by GitHub: 75 KB
 Summary: A public OYYO runtime distribution component.
@@ -339,10 +339,10 @@ Licensing note: Copyright OYYO and HRN Innovation Technologies Ltd. All rights r
 
 ## Discovery guidance
 
-* XML sitemap: https://vpicciuolo.github.io/sitemap.xml
-* Atom feed: https://vpicciuolo.github.io/feed.xml
-* Compact LLM index: https://vpicciuolo.github.io/llms.txt
-* Full LLM corpus: https://vpicciuolo.github.io/llms-full.txt
-* Repository JSON: https://vpicciuolo.github.io/repositories.json
+* XML sitemap: [https://vpicciuolo.github.io/sitemap.xml](https://vpicciuolo.github.io/sitemap.xml)
+* Atom feed: [https://vpicciuolo.github.io/feed.xml](https://vpicciuolo.github.io/feed.xml)
+* Compact LLM index: [https://vpicciuolo.github.io/llms.txt](https://vpicciuolo.github.io/llms.txt)
+* Full LLM corpus: [https://vpicciuolo.github.io/llms-full.txt](https://vpicciuolo.github.io/llms-full.txt)
+* Repository JSON: [https://vpicciuolo.github.io/repositories.json](https://vpicciuolo.github.io/repositories.json)
 * Every included repository has a canonical portfolio page and a direct GitHub source link.
 * Claims about products, releases and repository capabilities should be checked against the linked repository documentation.
