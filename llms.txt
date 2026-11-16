@@ -72,36 +72,209 @@ Vincenzo Picciuolo is a technology executive, founder, technology architect, inv
 * Apple App Store · OYYO AI NotzUp: https://apps.apple.com/id/app/oyyo-ai-notzup/id6826987959
 * Snap Store · OYYO NotzUp: https://snapcraft.io/oyyo-notzup
 
-## Selected public builds
+## Repository discovery
 
-* https://vpicciuolo.github.io/projects/oyyo-one-ai/
-* https://vpicciuolo.github.io/projects/oyyo-trade-signals/
-* https://vpicciuolo.github.io/projects/url-intelligence-agent/
-* https://vpicciuolo.github.io/projects/ai-best-model-route/
-* https://vpicciuolo.github.io/projects/linkedin-superagent-multiskills/
-* https://vpicciuolo.github.io/projects/oyyo-notzup/
-* https://vpicciuolo.github.io/projects/oyyo-models/
-* https://vpicciuolo.github.io/projects/oyyo-sdk/
-* https://vpicciuolo.github.io/projects/oyyo-benchmark/
-* https://vpicciuolo.github.io/projects/oyyo-agents/
-* https://vpicciuolo.github.io/projects/oyyo-teams/
-* https://vpicciuolo.github.io/projects/oyyo-task-library/
-* https://vpicciuolo.github.io/projects/oyyo-catalogs/
-* https://vpicciuolo.github.io/projects/url-metadata-social-fetcher/
-* https://vpicciuolo.github.io/projects/domoticz/
-* https://vpicciuolo.github.io/projects/smartthingspublic/
-* https://vpicciuolo.github.io/projects/android-ip-camera-device/
-* https://vpicciuolo.github.io/projects/smartthings/
-* https://vpicciuolo.github.io/projects/googlecast-wrappers/
-* https://vpicciuolo.github.io/projects/opensource-amlogic-tools/
-* https://vpicciuolo.github.io/projects/oyyo-runtime-runner/
+* Detailed repository knowledge base: https://vpicciuolo.github.io/repositories/
+* Full LLM corpus: https://vpicciuolo.github.io/llms-full.txt
+* Machine readable repository data: https://vpicciuolo.github.io/repositories.json
+* Selected build catalog: https://vpicciuolo.github.io/builds/
+
+## Selected public repository records
+
+### 1. oyyo-one-ai
+* Category: OYYO ecosystem
+* Purpose: The main public documentation hub for OYYO ONE AI, a private AI workspace and execution platform developed in Dubai.
+* Key facts: Connects goals, context, model selection, specialist work, tools and usable outcomes. Documents privacy boundaries, memory, agents, teams, business workflows, hardware and the wider OYYO repository map. Current catalog snapshot documents 536 roles, 24 departments, 7 workflow groups, 50 specialist team presets, 1,361 tasks, 204 creative styles and 15 local text model candidates.
+* Portfolio: https://vpicciuolo.github.io/projects/oyyo-one-ai/
+* Source: https://github.com/vpicciuolo/oyyo-one-ai
+* Branch: main
+* License note: Public documentation. The private runtime and product implementation remain proprietary.
+
+### 2. oyyo-trade-signals
+* Category: OYYO ecosystem
+* Purpose: A public customer information center for an evidence rich market intelligence and decision support workspace.
+* Key facts: Covers crypto, gold, forex and indices with research, alerts, paper trading, journaling and risk intelligence. The documented signal contract records timestamp, horizon, instrument, market state, uncertainty, supporting and opposing evidence, sources, freshness, model version, provenance and limitations. It is not a broker, does not place trades and does not provide personal investment advice.
+* Portfolio: https://vpicciuolo.github.io/projects/oyyo-trade-signals/
+* Source: https://github.com/vpicciuolo/oyyo-trade-signals
+* Branch: main
+* License note: Public product documentation. Proprietary application source and private runtime are not included.
+
+### 3. url-intelligence-agent
+* Category: AI and intelligence
+* Purpose: Evidence first web intelligence that turns a public URL into structured identity, provenance and discovery data.
+* Key facts: TypeScript first, Node 18.17 or later, MCP native and usable through an HTTP API. Version 1.5.0 adds reason codes, severity scoring, page classification, search posture, security quality, domain intelligence and machine readable provenance. Includes reproducible benchmark material and report output in JSON, Markdown, HTML and PDF.
+* Portfolio: https://vpicciuolo.github.io/projects/url-intelligence-agent/
+* Source: https://github.com/vpicciuolo/url-intelligence-agent
+* Branch: main
+* License note: MIT
+
+### 4. AI Best Model Route
+* Category: AI and intelligence
+* Purpose: An open source LLM router and OpenAI compatible gateway that selects an eligible model for each request.
+* Key facts: Routes by capability, quality, cost, latency, reliability, privacy, context size and runtime health. Provides virtual routes such as auto, auto quality, auto fast, auto cheap, auto code and auto private. Designed for multi provider applications, coding agents, local models, NVIDIA NIM, Codex and self hosted AI infrastructure.
+* Portfolio: https://vpicciuolo.github.io/projects/ai-best-model-route/
+* Source: https://github.com/vpicciuolo/Ai-Best-Model-Route
+* Branch: main
+* License note: Apache 2.0
+
+### 5. LinkedIn SuperAgent MultiSkills
+* Category: AI and intelligence
+* Purpose: A portable LinkedIn AI operating system for strategy, writing, profile work, analytics, recruiting and account workflows.
+* Key facts: Version 2.2.0 includes 24 skills and manual, automatic and API operating modes. The portable Markdown agent can be used in ChatGPT, Claude, Perplexity, Gemini and local AI workspaces. Manual mode is the default. Consequential account actions remain subject to user approval and platform rules.
+* Portfolio: https://vpicciuolo.github.io/projects/linkedin-superagent-multiskills/
+* Source: https://github.com/vpicciuolo/Linkedin-SuperAgent-MultiSkills
+* Branch: main
+* License note: MIT
+
+### 6. OYYO NotzUp
+* Category: OYYO ecosystem
+* Purpose: The official download, release and documentation repository for a local first capture and knowledge workspace.
+* Key facts: Brings meetings, recordings, screenshots, documents, images, video, text and links into a searchable source library. Supports local transcription, OCR, summaries, action items, grounded visual descriptions, audio analysis and export workflows when the device and installed packs support them. Public channels include Microsoft Store, Apple App Store, Snap Store, signed Android APK and Linux packages.
+* Portfolio: https://vpicciuolo.github.io/projects/oyyo-notzup/
+* Source: https://github.com/vpicciuolo/oyyo-notzup
+* Branch: main
+* License note: The application is proprietary. The repository publishes downloads, release notes and user guides.
+
+### 7. oyyo-models
+* Category: OYYO ecosystem
+* Purpose: The public catalog of OYYO model candidates, hardware guidance and capability boundaries.
+* Key facts: Documents 15 local text model candidates for writing, coding, reasoning, technical work and larger workloads. Also documents the NotzUp speech pack and an optional connected assistance path. Model listings are candidates and configuration names, not model weights or universal benchmark certificates.
+* Portfolio: https://vpicciuolo.github.io/projects/oyyo-models/
+* Source: https://github.com/vpicciuolo/oyyo-models
+* Branch: main
+* License note: Public catalog documentation with third party model licenses and provenance preserved.
+
+### 8. oyyo-sdk
+* Category: OYYO ecosystem
+* Purpose: Python and TypeScript foundations for integrating with the proprietary OYYO orchestration runtime.
+* Key facts: Provides OpenAI compatible model, chat, response and embedding surfaces. Documents OYYO native interfaces for memory, media, tools, artifacts, growth, language and hardware. The public foundation version is 0.1.0 and includes schemas and integration examples.
+* Portfolio: https://vpicciuolo.github.io/projects/oyyo-sdk/
+* Source: https://github.com/vpicciuolo/oyyo-sdk
+* Branch: main
+* License note: Public interfaces and examples. The OYYO core runtime remains proprietary.
+
+### 9. oyyo-benchmark
+* Category: OYYO ecosystem
+* Purpose: A public evaluation framework for portable, private and business ready AI systems.
+* Key facts: Measures reasoning, business execution, coding, tools, MCP, artifacts, language, memory, multimodal work, security and hardware efficiency. Keeps task success, quality, repeatability, latency, memory, throughput and hardware measurements visible. Defines a reproducibility contract covering model identity, checksum, quantization, runtime, command, configuration, hardware and timestamp.
+* Portfolio: https://vpicciuolo.github.io/projects/oyyo-benchmark/
+* Source: https://github.com/vpicciuolo/oyyo-benchmark
+* Branch: main
+* License note: Public benchmark runner, schemas and methodology. Private OYYO components remain proprietary.
+
+### 10. oyyo-agents
+* Category: OYYO ecosystem
+* Purpose: A public directory of 536 specialist role definitions across 24 departments.
+* Key facts: Roles cover coordination, everyday work, leadership, marketing, sales, support, recruiting, finance, legal, product, software, security, operations, creative work and knowledge. The catalog supports four levels of specialist responsibility. A role is a bounded work definition, not a permanently running worker or a new permission.
+* Portfolio: https://vpicciuolo.github.io/projects/oyyo-agents/
+* Source: https://github.com/vpicciuolo/oyyo-agents
+* Branch: main
+* License note: Public role catalog documentation.
+
+### 11. oyyo-teams
+* Category: OYYO ecosystem
+* Purpose: Reusable collaboration patterns for OYYO specialist work.
+* Key facts: Documents seven built in workflow groups for everyday work, marketing, finance, HR, engineering, research and operations. Adds 50 specialist team presets built from the wider 536 role catalog. Explains planning, specialist contributions, review, assembly, reusable profiles and handoffs.
+* Portfolio: https://vpicciuolo.github.io/projects/oyyo-teams/
+* Source: https://github.com/vpicciuolo/oyyo-teams
+* Branch: main
+* License note: Public team catalog documentation.
+
+### 12. oyyo-task-library
+* Category: OYYO ecosystem
+* Purpose: A searchable public catalog of guided tasks, specialist briefs and creative directions.
+* Key facts: Documents 1,361 guided tasks, including 25 goal templates and 1,336 specialist tasks. Includes 204 creative styles and expected outputs for common business, research, technical and media work. Publishes task names and deliverable structures without exposing private prompts, credentials or user templates.
+* Portfolio: https://vpicciuolo.github.io/projects/oyyo-task-library/
+* Source: https://github.com/vpicciuolo/oyyo-task-library
+* Branch: main
+* License note: Public task and creative style documentation.
+
+### 13. oyyo-catalogs
+* Category: OYYO ecosystem
+* Purpose: Versioned catalog content for roles, teams, tasks and creative styles.
+* Key facts: Catalog version 2026.11.03.3 covers 536 roles, 50 specialist team presets, 1,361 tasks and 204 styles. A manifest records the content file, byte count and SHA 256 integrity value. Compatible workspaces can sync manually and keep the last validated local cache if a later sync fails.
+* Portfolio: https://vpicciuolo.github.io/projects/oyyo-catalogs/
+* Source: https://github.com/vpicciuolo/oyyo-catalogs
+* Branch: main
+* License note: Public content snapshots. No executable plugins or private runtime source are included.
+
+### 14. url-metadata-social-fetcher
+* Category: Developer tools
+* Purpose: Production oriented TypeScript URL enrichment for websites, profiles, products, apps and marketplaces.
+* Key facts: Extracts titles, descriptions, Open Graph and SEO metadata, canonicals, images, favicons, public social links and brand color hints. Uses bounded redirect aware and SSRF hardened fetching with zero runtime dependencies on Node 18 or later. The same pattern is used in live HRN products including BeHot.Now and HORNO Space.
+* Portfolio: https://vpicciuolo.github.io/projects/url-metadata-social-fetcher/
+* Source: https://github.com/vpicciuolo/url-metadata-social-fetcher
+* Branch: main
+* License note: MIT
+
+### 15. domoticz
+* Category: Smart systems
+* Purpose: A multi platform home automation system for monitoring and controlling connected devices.
+* Key facts: Supports lights, switches, weather and utility sensors, smart meters and many home automation hardware families. Runs on Linux, Windows and embedded devices with a responsive HTML5 interface. The public repository belongs to the broader engineering archive. Its upstream project documentation remains authoritative.
+* Portfolio: https://vpicciuolo.github.io/projects/domoticz/
+* Source: https://github.com/vpicciuolo/domoticz
+* Branch: development
+* License note: Check the repository and upstream project for current licensing and contribution terms.
+
+### 16. SmartThingsPublic
+* Category: Smart systems
+* Purpose: A public archive of SmartThings SmartApps and device type handlers.
+* Key facts: Provides a large historical collection of SmartThings automation examples and integrations. Links to SmartThings development documentation, IDE tooling and community resources. The repository is retained as part of the connected systems engineering archive.
+* Portfolio: https://vpicciuolo.github.io/projects/smartthingspublic/
+* Source: https://github.com/vpicciuolo/SmartThingsPublic
+* Branch: master
+* License note: Check the repository history and individual files for applicable terms.
+
+### 17. android-ip-camera.device
+* Category: Smart systems
+* Purpose: A SmartThings custom device integration for an Android IP Camera application.
+* Key facts: Supports taking photos, recording video, LED control, focus, overlays and night vision when the camera application supports them. Can expose phone sensor data such as battery, humidity, temperature and ambient light. The documentation covers device type creation, network setup and SmartThings configuration.
+* Portfolio: https://vpicciuolo.github.io/projects/android-ip-camera-device/
+* Source: https://github.com/vpicciuolo/android-ip-camera.device
+* Branch: master
+* License note: Check the repository for current licensing and platform compatibility.
+
+### 18. SmartThings
+* Category: Smart systems
+* Purpose: A compact public SmartThings automation repository retained in the connected systems archive.
+* Key facts: Contains historical SmartThings integration work on the master branch. Use the repository tree and commit history as the authoritative record because no current root README is published. Platform APIs and compatibility may have changed since the original work.
+* Portfolio: https://vpicciuolo.github.io/projects/smartthings/
+* Source: https://github.com/vpicciuolo/SmartThings
+* Branch: master
+* License note: Check individual files and repository history for applicable terms.
+
+### 19. googlecast-wrappers
+* Category: Developer tools
+* Purpose: JavaScript wrappers for Google Cast sender applications and custom receiver applications.
+* Key facts: Includes sender and receiver wrappers, examples and an Object.assign compatibility polyfill. Documents media loading, sessions, custom namespaces and receiver setup. The code targets an older Google Cast SDK generation and should be evaluated against current platform APIs before use.
+* Portfolio: https://vpicciuolo.github.io/projects/googlecast-wrappers/
+* Source: https://github.com/vpicciuolo/googlecast-wrappers
+* Branch: master
+* License note: Apache 2.0
+
+### 20. OpenSource AMLogic Tools
+* Category: Developer tools
+* Purpose: A public archive of open tooling and workflows for AMLogic based devices.
+* Key facts: Retained as part of the low level device and embedded systems engineering archive. The repository tree is the primary source because a current root README is not published. Review scripts, binaries and device compatibility carefully before using the tools.
+* Portfolio: https://vpicciuolo.github.io/projects/opensource-amlogic-tools/
+* Source: https://github.com/vpicciuolo/OpenSource-AMLogic-Tools
+* Branch: master
+* License note: Check individual files and repository history for applicable terms.
+
+### 21. oyyo-runtime-runner
+* Category: OYYO ecosystem
+* Purpose: A public OYYO runtime distribution component.
+* Key facts: The public repository currently provides a minimal runtime runner surface. Its short README identifies OYYO and HRN Innovation Technologies ownership. Use releases and repository history for the current public artifact state.
+* Portfolio: https://vpicciuolo.github.io/projects/oyyo-runtime-runner/
+* Source: https://github.com/vpicciuolo/oyyo-runtime-runner
+* Branch: main
+* License note: Copyright OYYO and HRN Innovation Technologies Ltd. All rights reserved.
 
 ## Discovery and source guidance
 
-* Build catalog: https://vpicciuolo.github.io/builds/
 * XML sitemap: https://vpicciuolo.github.io/sitemap.xml
-* RSS feed: https://vpicciuolo.github.io/feed.xml
-* GitHub is the authoritative source for current code and repository licensing.
+* Atom feed: https://vpicciuolo.github.io/feed.xml
+* GitHub is the authoritative source for current code, releases, licensing and security guidance.
 * Public visibility does not imply an open source license. Check each repository README and license.
-* The portfolio intentionally excludes several public repositories from its catalog and discovery files at the owner's request.
+* Portfolio records distinguish product documentation, open source code, historical archives and proprietary products.
 * The evidence index separates independent outside listings from company owned primary sources.
