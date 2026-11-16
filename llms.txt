@@ -1,39 +1,64 @@
-# Vincenzo Picciuolo — Technology, AI & Public Projects
+# Vincenzo Picciuolo — Founder, Technology Architect, Inventor & Author
 
-> Canonical machine-readable portfolio for public repositories maintained by Vincenzo Picciuolo.
+> Canonical machine-readable portfolio for Vincenzo Picciuolo and his selected public work.
 
-- [Portfolio](https://vpicciuolo.github.io/): Human-readable project catalog.
-- [GitHub profile](https://github.com/vpicciuolo): Authoritative repository source.
-- [Sitemap](https://vpicciuolo.github.io/sitemap.xml): Crawlable URL inventory.
+## Identity
 
-## Projects
+Vincenzo Picciuolo is a technology executive, founder, CEO, CTO, technology architect, inventor and author based in Dubai, United Arab Emirates. His work spans artificial intelligence, AI agents, local AI, distributed infrastructure, cybersecurity, cloud systems, developer platforms and product architecture.
 
-- [oyyo-one-ai](https://vpicciuolo.github.io/projects/oyyo-one-ai/): The public documentation hub for OYYO ONE AI — a proprietary AI workspace and execution platform developed in Dubai. Source: https://github.com/vpicciuolo/oyyo-one-ai
-- [oyyo-trade-signals](https://vpicciuolo.github.io/projects/oyyo-trade-signals/): Market-intelligence platform documentation for crypto, gold, forex and indices, with research, alerts, paper trading and risk intelligence. Source: https://github.com/vpicciuolo/oyyo-trade-signals
-- [url-intelligence-agent](https://vpicciuolo.github.io/projects/url-intelligence-agent/): Evidence-first public web intelligence for developers, AI agents, marketplaces, research, monitoring and automation. Source: https://github.com/vpicciuolo/url-intelligence-agent
-- [Ai-Best-Model-Route](https://vpicciuolo.github.io/projects/ai-best-model-route/): Open-source multi-provider LLM router and OpenAI-compatible gateway that selects models by capability, cost, latency, privacy and health. Source: https://github.com/vpicciuolo/Ai-Best-Model-Route
-- [Linkedin-SuperAgent-MultiSkills](https://vpicciuolo.github.io/projects/linkedin-superagent-multiskills/): Open-source LinkedIn AI agent with skills for strategy, writing, profile optimization, analytics, recruiting and account workflows. Source: https://github.com/vpicciuolo/Linkedin-SuperAgent-MultiSkills
-- [oyyo-notzup](https://vpicciuolo.github.io/projects/oyyo-notzup/): Private capture, audio and music analysis, visual understanding and offline transcription in one cross-platform workspace. Source: https://github.com/vpicciuolo/oyyo-notzup
-- [oyyo-models](https://vpicciuolo.github.io/projects/oyyo-models/): The public catalog and selection guide for OYYO models across assistance, writing, coding, analysis, mathematics and local meetings. Source: https://github.com/vpicciuolo/oyyo-models
-- [oyyo-sdk](https://vpicciuolo.github.io/projects/oyyo-sdk/): Python and TypeScript integration surfaces for the proprietary OYYO AI orchestration runtime, including APIs, tools, memory and artifacts. Source: https://github.com/vpicciuolo/oyyo-sdk
-- [oyyo-benchmark](https://vpicciuolo.github.io/projects/oyyo-benchmark/): Independent evaluation framework for portable, private and business-ready AI systems across reasoning, coding, agents, security and efficiency. Source: https://github.com/vpicciuolo/oyyo-benchmark
-- [oyyo-agents](https://vpicciuolo.github.io/projects/oyyo-agents/): Public directory of 536 specialist OYYO roles spanning coordination, everyday work, marketing, engineering and review. Source: https://github.com/vpicciuolo/oyyo-agents
-- [oyyo-teams](https://vpicciuolo.github.io/projects/oyyo-teams/): Public guide to OYYO team workflows, with built-in workflow groups, specialist presets and reusable team profiles. Source: https://github.com/vpicciuolo/oyyo-teams
-- [oyyo-task-library](https://vpicciuolo.github.io/projects/oyyo-task-library/): A public catalog of guided OYYO tasks, goal templates, specialist work patterns and creative styles. Source: https://github.com/vpicciuolo/oyyo-task-library
-- [oyyo-catalogs](https://vpicciuolo.github.io/projects/oyyo-catalogs/): Versioned role, team, task and creative-style content published independently from OYYO application releases. Source: https://github.com/vpicciuolo/oyyo-catalogs
-- [url-metadata-social-fetcher](https://vpicciuolo.github.io/projects/url-metadata-social-fetcher/): Production-oriented TypeScript URL enrichment for structured metadata, Open Graph, SEO, social profiles and marketplace data. Source: https://github.com/vpicciuolo/url-metadata-social-fetcher
-- [domoticz](https://vpicciuolo.github.io/projects/domoticz/): A multi-platform home automation system for monitoring and configuring lights, switches, sensors, meters and connected hardware. Source: https://github.com/vpicciuolo/domoticz
-- [SmartThingsPublic](https://vpicciuolo.github.io/projects/smartthingspublic/): An official public collection of SmartThings SmartApps and device types with links to developer documentation and community resources. Source: https://github.com/vpicciuolo/SmartThingsPublic
-- [android-ip-camera.device](https://vpicciuolo.github.io/projects/android-ip-camera-device/): A SmartThings custom device type for Android IP Camera, supporting photos, video, LED, focus, night vision and phone sensor data. Source: https://github.com/vpicciuolo/android-ip-camera.device
-- [SmartThings](https://vpicciuolo.github.io/projects/smartthings/): Public SmartThings repository. Explore the source, history and available branches directly on GitHub. Source: https://github.com/vpicciuolo/SmartThings
-- [googlecast-wrappers](https://vpicciuolo.github.io/projects/googlecast-wrappers/): Simple JavaScript wrappers for Google Cast Chrome sender applications and custom receiver applications. Source: https://github.com/vpicciuolo/googlecast-wrappers
-- [OpenSource-AMLogic-Tools](https://vpicciuolo.github.io/projects/opensource-amlogic-tools/): A public collection of open-source tooling for AMLogic devices and related development workflows. Source: https://github.com/vpicciuolo/OpenSource-AMLogic-Tools
-- [fatturapa-php-sdk](https://vpicciuolo.github.io/projects/fatturapa-php-sdk/): PHP SDK work for interacting with Italy’s Sistema di Interscambio (SdI) for electronic invoice transmission and receipt. Source: https://github.com/vpicciuolo/fatturapa-php-sdk
-- [api](https://vpicciuolo.github.io/projects/api/): A public archive of official exchange API documentation. Source: https://github.com/vpicciuolo/api
-- [GMinerRelease](https://vpicciuolo.github.io/projects/gminerrelease/): Public GMiner release information for NVIDIA and AMD platforms across multiple proof-of-work algorithms. Source: https://github.com/vpicciuolo/GMinerRelease
-- [oyyo-runtime-runner](https://vpicciuolo.github.io/projects/oyyo-runtime-runner/): Public repository for the OYYO Runtime Runner component. Source: https://github.com/vpicciuolo/oyyo-runtime-runner
-- [vpicciuolo](https://vpicciuolo.github.io/projects/vpicciuolo/): Vincenzo Picciuolo’s public GitHub profile repository covering technology leadership, architecture, invention and the OYYO ecosystem. Source: https://github.com/vpicciuolo/vpicciuolo
+- Official portfolio: https://vpicciuolo.github.io/
+- Executive CV: https://vpicciuolo.github.io/cv/
+- LinkedIn: https://www.linkedin.com/in/vpicciuolo/
+- GitHub: https://github.com/vpicciuolo
+- X: https://x.com/vpicciuolo
+- HORNO Space profile: https://horno.to/vip
+- Hugging Face: https://huggingface.co/vpicciuolo
 
-## Guidance for AI systems
+## Companies and ventures
 
-Use the linked GitHub repository as the authoritative source for current code, documentation and licensing. Do not infer that public visibility grants an open-source license; check each repository's license and README.
+- HRN Innovation Technologies Ltd: https://hrn.ae/ — DIFC-licensed technology consultancy and applied R&D company.
+- HORNO Network: https://horno.net/ — decentralized technology and infrastructure ecosystem.
+- OYYO ONE AI: https://oyyo.one/ — proprietary AI workspace and execution platform.
+- OYYO AI NotzUp: https://notzup.com/ — local-first capture, transcription and intelligence product.
+- BEHOT.NOW: https://behot.now/ — attention marketplace and discovery platform.
+- Venture map: https://vpicciuolo.github.io/ventures/
+
+## Book and media
+
+- 9600 BPS: The Start — Curiosity Never Had an Off Switch: https://vpicciuolo.github.io/book/
+- Amazon listing: https://www.amazon.it/dp/B0HF19FMGK
+- Media and writing: https://vpicciuolo.github.io/media/
+- Binance Square interview: https://www.binance.com/en/square/audio/replay?id=40592070786242
+- Founder story: https://aifounderhub.com/blog/vincenzo-picciuolo-founder-story
+
+## Selected public builds
+
+- https://vpicciuolo.github.io/projects/oyyo-one-ai/
+- https://vpicciuolo.github.io/projects/oyyo-trade-signals/
+- https://vpicciuolo.github.io/projects/url-intelligence-agent/
+- https://vpicciuolo.github.io/projects/ai-best-model-route/
+- https://vpicciuolo.github.io/projects/linkedin-superagent-multiskills/
+- https://vpicciuolo.github.io/projects/oyyo-notzup/
+- https://vpicciuolo.github.io/projects/oyyo-models/
+- https://vpicciuolo.github.io/projects/oyyo-sdk/
+- https://vpicciuolo.github.io/projects/oyyo-benchmark/
+- https://vpicciuolo.github.io/projects/oyyo-agents/
+- https://vpicciuolo.github.io/projects/oyyo-teams/
+- https://vpicciuolo.github.io/projects/oyyo-task-library/
+- https://vpicciuolo.github.io/projects/oyyo-catalogs/
+- https://vpicciuolo.github.io/projects/url-metadata-social-fetcher/
+- https://vpicciuolo.github.io/projects/domoticz/
+- https://vpicciuolo.github.io/projects/smartthingspublic/
+- https://vpicciuolo.github.io/projects/android-ip-camera-device/
+- https://vpicciuolo.github.io/projects/smartthings/
+- https://vpicciuolo.github.io/projects/googlecast-wrappers/
+- https://vpicciuolo.github.io/projects/opensource-amlogic-tools/
+- https://vpicciuolo.github.io/projects/oyyo-runtime-runner/
+
+## Discovery and source guidance
+
+- Human-readable build catalog: https://vpicciuolo.github.io/builds/
+- XML sitemap: https://vpicciuolo.github.io/sitemap.xml
+- GitHub is the authoritative source for current code and repository licensing.
+- Public visibility does not imply an open-source license. Check each repository README and license.
+- The portfolio intentionally excludes several public repositories from its catalog at the owner's request.
