@@ -25,4 +25,4 @@ Allow: /
 User-agent: Google-Extended
 Allow: /
 
-Sitemap: https://vpicciuolo.github.io/sitemap.xml
+\n# LLM discovery\n# https://vpicciuolo.github.io/llms.txt\n# https://vpicciuolo.github.io/llms-full.txt\n# https://vpicciuolo.github.io/repositories.json\n\nSitemap: https://vpicciuolo.github.io/sitemap.xml
