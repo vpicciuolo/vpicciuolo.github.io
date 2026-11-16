@@ -1,10 +1,14 @@
-# Vincenzo Picciuolo — Open Source Index
+# Vincenzo Picciuolo — Technology, AI & Public Projects
 
-Public, crawlable index of 25 open-source repositories.
+Source for the public portfolio at **https://vpicciuolo.github.io/**.
 
-- Website: https://vpicciuolo.github.io/
-- Sitemap: https://vpicciuolo.github.io/sitemap.xml
-- LLM index: https://vpicciuolo.github.io/llms.txt
-- GitHub profile: https://github.com/vpicciuolo
+The site provides:
 
-Search engines and AI crawlers are permitted by `robots.txt`. Indexing and ingestion remain at each provider's discretion.
+- a polished, responsive portfolio covering 25 public repositories;
+- dedicated, canonical project pages;
+- structured metadata and social previews;
+- a complete XML sitemap;
+- explicit crawler access in `robots.txt`;
+- a machine-readable `llms.txt` index.
+
+Public visibility does not imply that every repository is open source. Check each repository's README and license.
