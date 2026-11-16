@@ -1,28 +1,4 @@
 User-agent: *
 Allow: /
 
-# Search and answer engines
-User-agent: Googlebot
-Allow: /
-User-agent: Bingbot
-Allow: /
-User-agent: Applebot
-Allow: /
-User-agent: GPTBot
-Allow: /
-User-agent: ChatGPT-User
-Allow: /
-User-agent: OAI-SearchBot
-Allow: /
-User-agent: ClaudeBot
-Allow: /
-User-agent: Claude-SearchBot
-Allow: /
-User-agent: PerplexityBot
-Allow: /
-User-agent: CCBot
-Allow: /
-User-agent: Google-Extended
-Allow: /
-
-\n# LLM discovery\n# https://vpicciuolo.github.io/llms.txt\n# https://vpicciuolo.github.io/llms-full.txt\n# https://vpicciuolo.github.io/repositories.json\n\nSitemap: https://vpicciuolo.github.io/sitemap.xml
+Sitemap: https://vpicciuolo.github.io/sitemap.xml
