@@ -129,3 +129,49 @@
 .platform-mark{text-align:right;font-size:.78rem;font-weight:900;letter-spacing:.14em;line-height:1.5;color:#a9b2c0}
 @media(max-width:900px){.article-grid,.essay-layout{grid-template-columns:1fr}.lead-article,.newsroom-note{grid-template-columns:1fr}.binance-preview{grid-template-columns:100px 1fr}.platform-mark{display:none}}
 @media(max-width:620px){.article-grid{grid-template-columns:1fr}.article-card{min-height:0}.lead-article{padding:26px}.binance-preview{grid-template-columns:1fr;padding:26px}.play-mark{width:76px;height:76px}.essay-list li{grid-template-columns:1fr;gap:8px}}
+
+
+/* Mobile layout hardening */
+img,video,svg,canvas,iframe{max-width:100%}
+main,section,article,aside,header,footer,.wrap,.nav-inner,.hero-copy,.story-copy,.feature-copy,.book-copy,.media-title,.connect-inner,.project-card,.venture-card{min-width:0}
+.prose,.side,dd,p,h1,h2,h3,a{overflow-wrap:anywhere}
+@media(max-width:900px){
+  html,body{width:100%;max-width:100%;overflow-x:hidden}
+  .wrap{width:calc(100% - 28px);max-width:100%}
+  .nav-inner{height:68px}
+  button.menu{display:inline-flex!important;position:relative;z-index:23;align-items:center;justify-content:center;min-width:72px;min-height:42px;cursor:pointer}
+  .nav-inner .navlinks{top:68px;left:14px;right:14px;width:auto;max-height:calc(100dvh - 84px);overflow-y:auto;overscroll-behavior:contain;padding:14px;background:#0e1219f7;box-shadow:0 22px 60px #000b}
+  .nav-inner .navlinks.open{display:flex}
+  .nav-inner .navlinks a{width:100%;padding:11px 4px;border-bottom:1px solid #ffffff12;font-size:.95rem}
+  body.menu-open{overflow:hidden}
+  .hero{width:calc(100% - 28px);padding-top:104px}
+  .hero h1,.page-hero h1{max-width:100%;font-size:clamp(2.65rem,12vw,4.25rem);line-height:.92}
+  .statement p,.story-copy h2,.section-head h2,.feature-copy h2,.book-copy h2,.media-title h2,.connect h2{max-width:100%}
+  .actions .btn{max-width:100%}
+  .atlas-controls,.section-head{align-items:stretch}
+  .search{width:100%;min-width:0}
+  .project-grid{grid-template-columns:minmax(0,1fr)}
+  .portrait-ring{width:100%}
+  .book-object{min-width:0}
+  .real-book-cover{width:min(100%,330px)}
+  footer .wrap{grid-template-columns:minmax(0,1fr)}
+  .footer-links{gap:12px 16px}
+
+  /* Older project pages do not include a menu button. Keep their navigation usable. */
+  .nav>.wrap:not(.nav-inner){display:flex;align-items:center;gap:16px;min-height:68px;overflow:hidden}
+  .nav>.wrap:not(.nav-inner)>.brand{flex:0 0 auto}
+  .nav>.wrap:not(.nav-inner)>.navlinks{position:static;display:flex;flex:1 1 auto;min-width:0;overflow-x:auto;overflow-y:hidden;white-space:nowrap;flex-direction:row;align-items:center;gap:18px;padding:0 4px;border:0;border-radius:0;background:transparent;scrollbar-width:none}
+  .nav>.wrap:not(.nav-inner)>.navlinks::-webkit-scrollbar{display:none}
+  .nav>.wrap:not(.nav-inner)>.navlinks a{flex:0 0 auto;padding:20px 0}
+}
+@media(max-width:560px){
+  .wrap{width:calc(100% - 24px)}
+  .hero{width:calc(100% - 24px)}
+  .hero h1,.page-hero h1{font-size:clamp(2.5rem,11.5vw,3.55rem)}
+  .section{padding:56px 0}
+  .page-hero{padding:112px 0 48px}
+  .venture-card,.prose-card,.recommendation-card,.coverage-card,.record-card{padding:22px}
+  .social-strip{gap:12px 16px}
+  .btn{width:100%}
+  .center-action{display:grid;gap:10px}
+}
