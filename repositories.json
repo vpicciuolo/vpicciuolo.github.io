@@ -1,0 +1,390 @@
+{
+  "schema_version": "1.0",
+  "updated": "2026-11-16",
+  "canonical": "https://vpicciuolo.github.io/repositories/",
+  "owner": {
+    "name": "Vincenzo Picciuolo",
+    "github": "https://github.com/vpicciuolo"
+  },
+  "source_note": "GitHub is authoritative for current code, releases, licensing and security guidance.",
+  "repositories": [
+    {
+      "slug": "oyyo-one-ai",
+      "name": "oyyo-one-ai",
+      "repo": "oyyo-one-ai",
+      "cat": "OYYO ecosystem",
+      "branch": "main",
+      "size": 28,
+      "summary": "The main public documentation hub for OYYO ONE AI, a private AI workspace and execution platform developed in Dubai.",
+      "details": [
+        "Connects goals, context, model selection, specialist work, tools and usable outcomes.",
+        "Documents privacy boundaries, memory, agents, teams, business workflows, hardware and the wider OYYO repository map.",
+        "Current catalog snapshot documents 536 roles, 24 departments, 7 workflow groups, 50 specialist team presets, 1,361 tasks, 204 creative styles and 15 local text model candidates."
+      ],
+      "license": "Public documentation. The private runtime and product implementation remain proprietary.",
+      "url": "https://github.com/vpicciuolo/oyyo-one-ai",
+      "portfolio_url": "https://vpicciuolo.github.io/projects/oyyo-one-ai/",
+      "size_kb": 28
+    },
+    {
+      "slug": "oyyo-trade-signals",
+      "name": "oyyo-trade-signals",
+      "repo": "oyyo-trade-signals",
+      "cat": "OYYO ecosystem",
+      "branch": "main",
+      "size": 2600,
+      "summary": "A public customer information center for an evidence rich market intelligence and decision support workspace.",
+      "details": [
+        "Covers crypto, gold, forex and indices with research, alerts, paper trading, journaling and risk intelligence.",
+        "The documented signal contract records timestamp, horizon, instrument, market state, uncertainty, supporting and opposing evidence, sources, freshness, model version, provenance and limitations.",
+        "It is not a broker, does not place trades and does not provide personal investment advice."
+      ],
+      "license": "Public product documentation. Proprietary application source and private runtime are not included.",
+      "url": "https://github.com/vpicciuolo/oyyo-trade-signals",
+      "portfolio_url": "https://vpicciuolo.github.io/projects/oyyo-trade-signals/",
+      "size_kb": 2600
+    },
+    {
+      "slug": "url-intelligence-agent",
+      "name": "url-intelligence-agent",
+      "repo": "url-intelligence-agent",
+      "cat": "AI and intelligence",
+      "branch": "main",
+      "size": 1056,
+      "summary": "Evidence first web intelligence that turns a public URL into structured identity, provenance and discovery data.",
+      "details": [
+        "TypeScript first, Node 18.17 or later, MCP native and usable through an HTTP API.",
+        "Version 1.5.0 adds reason codes, severity scoring, page classification, search posture, security quality, domain intelligence and machine readable provenance.",
+        "Includes reproducible benchmark material and report output in JSON, Markdown, HTML and PDF."
+      ],
+      "license": "MIT",
+      "url": "https://github.com/vpicciuolo/url-intelligence-agent",
+      "portfolio_url": "https://vpicciuolo.github.io/projects/url-intelligence-agent/",
+      "size_kb": 1056
+    },
+    {
+      "slug": "ai-best-model-route",
+      "name": "AI Best Model Route",
+      "repo": "Ai-Best-Model-Route",
+      "cat": "AI and intelligence",
+      "branch": "main",
+      "size": 194,
+      "summary": "An open source LLM router and OpenAI compatible gateway that selects an eligible model for each request.",
+      "details": [
+        "Routes by capability, quality, cost, latency, reliability, privacy, context size and runtime health.",
+        "Provides virtual routes such as auto, auto quality, auto fast, auto cheap, auto code and auto private.",
+        "Designed for multi provider applications, coding agents, local models, NVIDIA NIM, Codex and self hosted AI infrastructure."
+      ],
+      "license": "Apache 2.0",
+      "url": "https://github.com/vpicciuolo/Ai-Best-Model-Route",
+      "portfolio_url": "https://vpicciuolo.github.io/projects/ai-best-model-route/",
+      "size_kb": 194
+    },
+    {
+      "slug": "linkedin-superagent-multiskills",
+      "name": "LinkedIn SuperAgent MultiSkills",
+      "repo": "Linkedin-SuperAgent-MultiSkills",
+      "cat": "AI and intelligence",
+      "branch": "main",
+      "size": 1254,
+      "summary": "A portable LinkedIn AI operating system for strategy, writing, profile work, analytics, recruiting and account workflows.",
+      "details": [
+        "Version 2.2.0 includes 24 skills and manual, automatic and API operating modes.",
+        "The portable Markdown agent can be used in ChatGPT, Claude, Perplexity, Gemini and local AI workspaces.",
+        "Manual mode is the default. Consequential account actions remain subject to user approval and platform rules."
+      ],
+      "license": "MIT",
+      "url": "https://github.com/vpicciuolo/Linkedin-SuperAgent-MultiSkills",
+      "portfolio_url": "https://vpicciuolo.github.io/projects/linkedin-superagent-multiskills/",
+      "size_kb": 1254
+    },
+    {
+      "slug": "oyyo-notzup",
+      "name": "OYYO NotzUp",
+      "repo": "oyyo-notzup",
+      "cat": "OYYO ecosystem",
+      "branch": "main",
+      "size": 3541,
+      "summary": "The official download, release and documentation repository for a local first capture and knowledge workspace.",
+      "details": [
+        "Brings meetings, recordings, screenshots, documents, images, video, text and links into a searchable source library.",
+        "Supports local transcription, OCR, summaries, action items, grounded visual descriptions, audio analysis and export workflows when the device and installed packs support them.",
+        "Public channels include Microsoft Store, Apple App Store, Snap Store, signed Android APK and Linux packages."
+      ],
+      "license": "The application is proprietary. The repository publishes downloads, release notes and user guides.",
+      "url": "https://github.com/vpicciuolo/oyyo-notzup",
+      "portfolio_url": "https://vpicciuolo.github.io/projects/oyyo-notzup/",
+      "size_kb": 3541
+    },
+    {
+      "slug": "oyyo-models",
+      "name": "oyyo-models",
+      "repo": "oyyo-models",
+      "cat": "OYYO ecosystem",
+      "branch": "main",
+      "size": 87,
+      "summary": "The public catalog of OYYO model candidates, hardware guidance and capability boundaries.",
+      "details": [
+        "Documents 15 local text model candidates for writing, coding, reasoning, technical work and larger workloads.",
+        "Also documents the NotzUp speech pack and an optional connected assistance path.",
+        "Model listings are candidates and configuration names, not model weights or universal benchmark certificates."
+      ],
+      "license": "Public catalog documentation with third party model licenses and provenance preserved.",
+      "url": "https://github.com/vpicciuolo/oyyo-models",
+      "portfolio_url": "https://vpicciuolo.github.io/projects/oyyo-models/",
+      "size_kb": 87
+    },
+    {
+      "slug": "oyyo-sdk",
+      "name": "oyyo-sdk",
+      "repo": "oyyo-sdk",
+      "cat": "OYYO ecosystem",
+      "branch": "main",
+      "size": 22,
+      "summary": "Python and TypeScript foundations for integrating with the proprietary OYYO orchestration runtime.",
+      "details": [
+        "Provides OpenAI compatible model, chat, response and embedding surfaces.",
+        "Documents OYYO native interfaces for memory, media, tools, artifacts, growth, language and hardware.",
+        "The public foundation version is 0.1.0 and includes schemas and integration examples."
+      ],
+      "license": "Public interfaces and examples. The OYYO core runtime remains proprietary.",
+      "url": "https://github.com/vpicciuolo/oyyo-sdk",
+      "portfolio_url": "https://vpicciuolo.github.io/projects/oyyo-sdk/",
+      "size_kb": 22
+    },
+    {
+      "slug": "oyyo-benchmark",
+      "name": "oyyo-benchmark",
+      "repo": "oyyo-benchmark",
+      "cat": "OYYO ecosystem",
+      "branch": "main",
+      "size": 102,
+      "summary": "A public evaluation framework for portable, private and business ready AI systems.",
+      "details": [
+        "Measures reasoning, business execution, coding, tools, MCP, artifacts, language, memory, multimodal work, security and hardware efficiency.",
+        "Keeps task success, quality, repeatability, latency, memory, throughput and hardware measurements visible.",
+        "Defines a reproducibility contract covering model identity, checksum, quantization, runtime, command, configuration, hardware and timestamp."
+      ],
+      "license": "Public benchmark runner, schemas and methodology. Private OYYO components remain proprietary.",
+      "url": "https://github.com/vpicciuolo/oyyo-benchmark",
+      "portfolio_url": "https://vpicciuolo.github.io/projects/oyyo-benchmark/",
+      "size_kb": 102
+    },
+    {
+      "slug": "oyyo-agents",
+      "name": "oyyo-agents",
+      "repo": "oyyo-agents",
+      "cat": "OYYO ecosystem",
+      "branch": "main",
+      "size": 230,
+      "summary": "A public directory of 536 specialist role definitions across 24 departments.",
+      "details": [
+        "Roles cover coordination, everyday work, leadership, marketing, sales, support, recruiting, finance, legal, product, software, security, operations, creative work and knowledge.",
+        "The catalog supports four levels of specialist responsibility.",
+        "A role is a bounded work definition, not a permanently running worker or a new permission."
+      ],
+      "license": "Public role catalog documentation.",
+      "url": "https://github.com/vpicciuolo/oyyo-agents",
+      "portfolio_url": "https://vpicciuolo.github.io/projects/oyyo-agents/",
+      "size_kb": 230
+    },
+    {
+      "slug": "oyyo-teams",
+      "name": "oyyo-teams",
+      "repo": "oyyo-teams",
+      "cat": "OYYO ecosystem",
+      "branch": "main",
+      "size": 21,
+      "summary": "Reusable collaboration patterns for OYYO specialist work.",
+      "details": [
+        "Documents seven built in workflow groups for everyday work, marketing, finance, HR, engineering, research and operations.",
+        "Adds 50 specialist team presets built from the wider 536 role catalog.",
+        "Explains planning, specialist contributions, review, assembly, reusable profiles and handoffs."
+      ],
+      "license": "Public team catalog documentation.",
+      "url": "https://github.com/vpicciuolo/oyyo-teams",
+      "portfolio_url": "https://vpicciuolo.github.io/projects/oyyo-teams/",
+      "size_kb": 21
+    },
+    {
+      "slug": "oyyo-task-library",
+      "name": "oyyo-task-library",
+      "repo": "oyyo-task-library",
+      "cat": "OYYO ecosystem",
+      "branch": "main",
+      "size": 50,
+      "summary": "A searchable public catalog of guided tasks, specialist briefs and creative directions.",
+      "details": [
+        "Documents 1,361 guided tasks, including 25 goal templates and 1,336 specialist tasks.",
+        "Includes 204 creative styles and expected outputs for common business, research, technical and media work.",
+        "Publishes task names and deliverable structures without exposing private prompts, credentials or user templates."
+      ],
+      "license": "Public task and creative style documentation.",
+      "url": "https://github.com/vpicciuolo/oyyo-task-library",
+      "portfolio_url": "https://vpicciuolo.github.io/projects/oyyo-task-library/",
+      "size_kb": 50
+    },
+    {
+      "slug": "oyyo-catalogs",
+      "name": "oyyo-catalogs",
+      "repo": "oyyo-catalogs",
+      "cat": "OYYO ecosystem",
+      "branch": "main",
+      "size": 122,
+      "summary": "Versioned catalog content for roles, teams, tasks and creative styles.",
+      "details": [
+        "Catalog version 2026.11.03.3 covers 536 roles, 50 specialist team presets, 1,361 tasks and 204 styles.",
+        "A manifest records the content file, byte count and SHA 256 integrity value.",
+        "Compatible workspaces can sync manually and keep the last validated local cache if a later sync fails."
+      ],
+      "license": "Public content snapshots. No executable plugins or private runtime source are included.",
+      "url": "https://github.com/vpicciuolo/oyyo-catalogs",
+      "portfolio_url": "https://vpicciuolo.github.io/projects/oyyo-catalogs/",
+      "size_kb": 122
+    },
+    {
+      "slug": "url-metadata-social-fetcher",
+      "name": "url-metadata-social-fetcher",
+      "repo": "url-metadata-social-fetcher",
+      "cat": "Developer tools",
+      "branch": "main",
+      "size": 231,
+      "summary": "Production oriented TypeScript URL enrichment for websites, profiles, products, apps and marketplaces.",
+      "details": [
+        "Extracts titles, descriptions, Open Graph and SEO metadata, canonicals, images, favicons, public social links and brand color hints.",
+        "Uses bounded redirect aware and SSRF hardened fetching with zero runtime dependencies on Node 18 or later.",
+        "The same pattern is used in live HRN products including BeHot.Now and HORNO Space."
+      ],
+      "license": "MIT",
+      "url": "https://github.com/vpicciuolo/url-metadata-social-fetcher",
+      "portfolio_url": "https://vpicciuolo.github.io/projects/url-metadata-social-fetcher/",
+      "size_kb": 231
+    },
+    {
+      "slug": "domoticz",
+      "name": "domoticz",
+      "repo": "domoticz",
+      "cat": "Smart systems",
+      "branch": "development",
+      "size": 346586,
+      "summary": "A multi platform home automation system for monitoring and controlling connected devices.",
+      "details": [
+        "Supports lights, switches, weather and utility sensors, smart meters and many home automation hardware families.",
+        "Runs on Linux, Windows and embedded devices with a responsive HTML5 interface.",
+        "The public repository belongs to the broader engineering archive. Its upstream project documentation remains authoritative."
+      ],
+      "license": "Check the repository and upstream project for current licensing and contribution terms.",
+      "url": "https://github.com/vpicciuolo/domoticz",
+      "portfolio_url": "https://vpicciuolo.github.io/projects/domoticz/",
+      "size_kb": 346586
+    },
+    {
+      "slug": "smartthingspublic",
+      "name": "SmartThingsPublic",
+      "repo": "SmartThingsPublic",
+      "cat": "Smart systems",
+      "branch": "master",
+      "size": 12531,
+      "summary": "A public archive of SmartThings SmartApps and device type handlers.",
+      "details": [
+        "Provides a large historical collection of SmartThings automation examples and integrations.",
+        "Links to SmartThings development documentation, IDE tooling and community resources.",
+        "The repository is retained as part of the connected systems engineering archive."
+      ],
+      "license": "Check the repository history and individual files for applicable terms.",
+      "url": "https://github.com/vpicciuolo/SmartThingsPublic",
+      "portfolio_url": "https://vpicciuolo.github.io/projects/smartthingspublic/",
+      "size_kb": 12531
+    },
+    {
+      "slug": "android-ip-camera-device",
+      "name": "android-ip-camera.device",
+      "repo": "android-ip-camera.device",
+      "cat": "Smart systems",
+      "branch": "master",
+      "size": 148,
+      "summary": "A SmartThings custom device integration for an Android IP Camera application.",
+      "details": [
+        "Supports taking photos, recording video, LED control, focus, overlays and night vision when the camera application supports them.",
+        "Can expose phone sensor data such as battery, humidity, temperature and ambient light.",
+        "The documentation covers device type creation, network setup and SmartThings configuration."
+      ],
+      "license": "Check the repository for current licensing and platform compatibility.",
+      "url": "https://github.com/vpicciuolo/android-ip-camera.device",
+      "portfolio_url": "https://vpicciuolo.github.io/projects/android-ip-camera-device/",
+      "size_kb": 148
+    },
+    {
+      "slug": "smartthings",
+      "name": "SmartThings",
+      "repo": "SmartThings",
+      "cat": "Smart systems",
+      "branch": "master",
+      "size": 236,
+      "summary": "A compact public SmartThings automation repository retained in the connected systems archive.",
+      "details": [
+        "Contains historical SmartThings integration work on the master branch.",
+        "Use the repository tree and commit history as the authoritative record because no current root README is published.",
+        "Platform APIs and compatibility may have changed since the original work."
+      ],
+      "license": "Check individual files and repository history for applicable terms.",
+      "url": "https://github.com/vpicciuolo/SmartThings",
+      "portfolio_url": "https://vpicciuolo.github.io/projects/smartthings/",
+      "size_kb": 236
+    },
+    {
+      "slug": "googlecast-wrappers",
+      "name": "googlecast-wrappers",
+      "repo": "googlecast-wrappers",
+      "cat": "Developer tools",
+      "branch": "master",
+      "size": 186,
+      "summary": "JavaScript wrappers for Google Cast sender applications and custom receiver applications.",
+      "details": [
+        "Includes sender and receiver wrappers, examples and an Object.assign compatibility polyfill.",
+        "Documents media loading, sessions, custom namespaces and receiver setup.",
+        "The code targets an older Google Cast SDK generation and should be evaluated against current platform APIs before use."
+      ],
+      "license": "Apache 2.0",
+      "url": "https://github.com/vpicciuolo/googlecast-wrappers",
+      "portfolio_url": "https://vpicciuolo.github.io/projects/googlecast-wrappers/",
+      "size_kb": 186
+    },
+    {
+      "slug": "opensource-amlogic-tools",
+      "name": "OpenSource AMLogic Tools",
+      "repo": "OpenSource-AMLogic-Tools",
+      "cat": "Developer tools",
+      "branch": "master",
+      "size": 19584,
+      "summary": "A public archive of open tooling and workflows for AMLogic based devices.",
+      "details": [
+        "Retained as part of the low level device and embedded systems engineering archive.",
+        "The repository tree is the primary source because a current root README is not published.",
+        "Review scripts, binaries and device compatibility carefully before using the tools."
+      ],
+      "license": "Check individual files and repository history for applicable terms.",
+      "url": "https://github.com/vpicciuolo/OpenSource-AMLogic-Tools",
+      "portfolio_url": "https://vpicciuolo.github.io/projects/opensource-amlogic-tools/",
+      "size_kb": 19584
+    },
+    {
+      "slug": "oyyo-runtime-runner",
+      "name": "oyyo-runtime-runner",
+      "repo": "oyyo-runtime-runner",
+      "cat": "OYYO ecosystem",
+      "branch": "main",
+      "size": 75,
+      "summary": "A public OYYO runtime distribution component.",
+      "details": [
+        "The public repository currently provides a minimal runtime runner surface.",
+        "Its short README identifies OYYO and HRN Innovation Technologies ownership.",
+        "Use releases and repository history for the current public artifact state."
+      ],
+      "license": "Copyright OYYO and HRN Innovation Technologies Ltd. All rights reserved.",
+      "url": "https://github.com/vpicciuolo/oyyo-runtime-runner",
+      "portfolio_url": "https://vpicciuolo.github.io/projects/oyyo-runtime-runner/",
+      "size_kb": 75
+    }
+  ]
+}
