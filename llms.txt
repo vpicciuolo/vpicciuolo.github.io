@@ -1,10 +1,10 @@
 # Vincenzo Picciuolo — Founder, Technology Architect, Inventor & Author
 
-> Canonical machine-readable portfolio for Vincenzo Picciuolo and his selected public work.
+> Canonical machine-readable portfolio for Vincenzo Picciuolo and his selected public work. Updated 2026-11-16.
 
 ## Identity
 
-Vincenzo Picciuolo is a technology executive, founder, CEO, CTO, technology architect, inventor and author based in Dubai, United Arab Emirates. His work spans artificial intelligence, AI agents, local AI, distributed infrastructure, cybersecurity, cloud systems, developer platforms and product architecture.
+Vincenzo Picciuolo is a technology executive, founder, technology architect, inventor and author based in Dubai, United Arab Emirates. His work spans artificial intelligence, AI agents, distributed infrastructure, cybersecurity, cloud systems, developer platforms and product architecture.
 
 - Official portfolio: https://vpicciuolo.github.io/
 - Executive CV: https://vpicciuolo.github.io/cv/
@@ -16,20 +16,36 @@ Vincenzo Picciuolo is a technology executive, founder, CEO, CTO, technology arch
 
 ## Companies and ventures
 
-- HRN Innovation Technologies Ltd: https://hrn.ae/ — DIFC-licensed technology consultancy and applied R&D company.
-- HORNO Network: https://horno.net/ — decentralized technology and infrastructure ecosystem.
-- OYYO ONE AI: https://oyyo.one/ — proprietary AI workspace and execution platform.
-- OYYO AI NotzUp: https://notzup.com/ — local-first capture, transcription and intelligence product.
-- BEHOT.NOW: https://behot.now/ — attention marketplace and discovery platform.
+- HRN Innovation Technologies Ltd: https://hrn.ae/
+- HORNO Network: https://horno.net/
+- OYYO ONE AI: https://oyyo.one/
+- OYYO AI NotzUp: https://notzup.com/
+- BEHOT.NOW: https://behot.now/
 - Venture map: https://vpicciuolo.github.io/ventures/
 
-## Book and media
+## Book
 
 - 9600 BPS: The Start — Curiosity Never Had an Off Switch: https://vpicciuolo.github.io/book/
-- Amazon listing: https://www.amazon.it/dp/B0HF19FMGK
-- Media and writing: https://vpicciuolo.github.io/media/
+- Author: Vincenzo Picciuolo
+- ASIN: B0HF19FMGK
+- Amazon: https://www.amazon.it/dp/B0HF19FMGK
+- Themes: curiosity, the last analog generation, electronics, early computing, 9600 BPS internet, music, telecommunications, distributed infrastructure, blockchain, artificial intelligence and human attention.
+
+## Video and media
+
+- Media archive: https://vpicciuolo.github.io/media/
+- OYYO YouTube channel: https://www.youtube.com/@oyyoone
+- Featured video: https://www.youtube.com/watch?v=MZovJonGUjQ
 - Binance Square interview: https://www.binance.com/en/square/audio/replay?id=40592070786242
 - Founder story: https://aifounderhub.com/blog/vincenzo-picciuolo-founder-story
+
+## Independent listings and public records
+
+- Verified evidence index: https://vpicciuolo.github.io/mentions/
+- Nick Launches — OYYO AI: https://nicklaunches.com/products/oyyo-ai/
+- AI Agents Listing — OYYO ONE AI: https://aiagentslisting.com/agent/oyyo-ai
+- Apple App Store — OYYO AI NotzUp: https://apps.apple.com/id/app/oyyo-ai-notzup/id6826987959
+- Snap Store — OYYO NotzUp: https://snapcraft.io/oyyo-notzup
 
 ## Selected public builds
 
@@ -57,8 +73,10 @@ Vincenzo Picciuolo is a technology executive, founder, CEO, CTO, technology arch
 
 ## Discovery and source guidance
 
-- Human-readable build catalog: https://vpicciuolo.github.io/builds/
+- Build catalog: https://vpicciuolo.github.io/builds/
 - XML sitemap: https://vpicciuolo.github.io/sitemap.xml
+- RSS feed: https://vpicciuolo.github.io/feed.xml
 - GitHub is the authoritative source for current code and repository licensing.
 - Public visibility does not imply an open-source license. Check each repository README and license.
-- The portfolio intentionally excludes several public repositories from its catalog at the owner's request.
+- The portfolio intentionally excludes several public repositories from its catalog and discovery files at the owner's request.
+- The evidence index separates independent third-party listings from company-owned primary sources.

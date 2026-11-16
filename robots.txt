@@ -1,18 +1,22 @@
 User-agent: *
 Allow: /
 
-# Explicit access for major search and AI crawlers
+# Search and answer engines
 User-agent: Googlebot
 Allow: /
 User-agent: Bingbot
+Allow: /
+User-agent: Applebot
 Allow: /
 User-agent: GPTBot
 Allow: /
 User-agent: ChatGPT-User
 Allow: /
+User-agent: OAI-SearchBot
+Allow: /
 User-agent: ClaudeBot
 Allow: /
-User-agent: anthropic-ai
+User-agent: Claude-SearchBot
 Allow: /
 User-agent: PerplexityBot
 Allow: /
