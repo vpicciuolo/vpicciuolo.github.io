@@ -31,13 +31,29 @@ Vincenzo Picciuolo is a technology executive, founder, technology architect, inv
 * Amazon: https://www.amazon.it/dp/B0HF19FMGK
 * Themes: curiosity, the last analog generation, electronics, early computing, 9600 BPS internet, music, telecommunications, distributed infrastructure, blockchain, artificial intelligence and human attention.
 
-## Video and media
+## Writing, video and media
 
+* Writing archive: https://vpicciuolo.github.io/writing/
+* LinkedIn long form article: https://www.linkedin.com/pulse/beyond-ai-chatbots-why-businesses-need-intelligence-layer-picciuolo-6irbf/
+* HORNO Space author profile and five founder articles: https://space.horno.net/vincenzo
 * Media archive: https://vpicciuolo.github.io/media/
 * OYYO YouTube channel: https://www.youtube.com/@oyyoone
 * Featured video: https://www.youtube.com/watch?v=MZovJonGUjQ
-* Binance Square interview: https://www.binance.com/en/square/audio/replay?id=40592070786242
+* Binance Square founder interview: https://www.binance.com/en/square/audio/replay?id=40592070786242
+* HORNO newsroom: https://horno.net/blog
 * Founder story: https://aifounderhub.com/blog/vincenzo-picciuolo-founder-story
+
+## Intellectual property and equipment records
+
+* Portfolio record: https://vpicciuolo.github.io/ip/
+* HORNO pending United States patent application: 64/008,403
+* Filing date reported by HORNO: March 17, 2026
+* Inventor named by HORNO: Vincenzo Picciuolo
+* FCC ID 2BCIX-LFIONE: https://fccid.io/2BCIX-LFIONE
+* FCC ID 2BGS9-XLFIVALIDATOR: https://fccid.io/2BGS9-XLFIVALIDATOR
+* FCC ID 2BGS9-XLFI1000: https://fccid.io/2BGS9-XLFI1000
+* FCC ID 2BGS9-XLFI10000: https://fccid.io/2BGS9-XLFI10000
+* ERAC equipment record GMA 516675 EA for charger HJ C6 33: https://device.report/lyotech-labs/hj-c6-33
 
 ## Recognition and recommendations
 
