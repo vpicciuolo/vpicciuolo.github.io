@@ -32,6 +32,14 @@ This document is the expanded machine readable corpus for the public portfolio. 
 * OYYO ONE AI: https://oyyo.one/
 * OYYO NotzUp: https://notzup.com/
 
+## Language editions
+
+* English: https://vpicciuolo.github.io/
+* Italian: https://vpicciuolo.github.io/it/
+* Spanish: https://vpicciuolo.github.io/es/
+* French: https://vpicciuolo.github.io/fr/
+* Arabic: https://vpicciuolo.github.io/ar/
+
 ## Repository corpus
 
 ### 1. oyyo-one-ai
