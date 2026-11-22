@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
 
+Sitemap: https://vpicciuolo.github.io/sitemap.txt
 Sitemap: https://vpicciuolo.github.io/sitemap/sitemap.xml
